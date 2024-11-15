@@ -17,7 +17,7 @@ A new Flutter project for tentwenty.
    I will follow a Change Notifier-based clean architecture pattern to ensure a clear separation of concerns, enabling  testability and maintainability.  
 
 5. Performance Optimization:
-   The app will leverage Dio for networking, providing advanced features such as interceptors and custom adapters for efficient API integration. I will also employ efficient widgets and components to minimize resource consumption and improve app performance.  
+   The app will leverage http for networking, providing advanced features such as interceptors and custom adapters for efficient API integration. I will also employ efficient widgets and components to minimize resource consumption and improve app performance.  
 
 6. Key Flutter Components and Plugins:
    - Streams   for handling real-time data updates.  
